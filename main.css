@@ -1,0 +1,19 @@
+ .text-box h3:first-child {color: pink;}
+ #greycol {color: gray;}
+ div>div>p {color: red;}
+ div>p:nth-child(7) {color: green;}
+ .yellow {color: yellow;}
+.monday-list h1:first-child {color: brown;}
+.monday-list a:link {text-decoration: none;font-size: larger;}
+.tuesday-list h1:first-child {color: chocolate;}
+.tuesday-list a:hover {color: darkmagenta;font-size: xx-large;}
+.wednesday-list h1:first-child {color: mediumpurple;}
+.wednesday-list a:link {text-decoration: none; font-size: larger;}
+.thursday-list h1:first-child {color: navy;}
+.thursday-list a:focus {text-decoration: none;color: lightpink;}
+.friday-list h1:first-child {color: fuchsia;}
+.friday-list a {text-decoration: none;}
+.saturday-list h1:first-child {color: green;}
+.saturday-list a {color: goldenrod;text-decoration: none;}
+
+
